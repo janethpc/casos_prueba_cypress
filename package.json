@@ -1,0 +1,14 @@
+{
+  "name": "casos_prueba_cypress",
+  "version": "1.0.0",
+  "description": "proyecto de pruebas practica cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "JanethPc",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.1"
+  }
+}
