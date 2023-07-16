@@ -4,7 +4,8 @@
   "description": "proyecto de pruebas practica cypress",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "pruebas-edge":"cypress run --spec cypress/e2e/smoketestgoogle.cy.js --browser edge " 
   },
   "author": "JanethPc",
   "license": "ISC",
